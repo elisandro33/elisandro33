@@ -1,47 +1,367 @@
-{ "status": 200, "data": { "prev_page": null, "next_page": null, "has_prev": false, "has_next": false, "total": 10, "current_page": 1, "pages": 1, "results": [ { "name": "VIVO 1", "config_v2ray": "", "server_hostname": "vivo.inovanet10.fun", "description": "", "username": "", "server_port": 80, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "FORCE /? FULL / HTTP/1.0[crlf]HOST: fnetssh.xyz[crlf]UPGRADE: t.me/PayloadHostOficial[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "", "config_mode": "ssh_direct", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.24.10.16", "sort_order": 1, "id": 1, "proxy_port": 80, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "VIVO 2", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "1.1.1.1", "payload": "GET wss://support.pokemon.com/ HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "1.0.0.1", "sni": "support.pokemon.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "172.64.130.2", "sort_order": 2, "id": 2, "proxy_port": 443, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "VIVO 3", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "1.1.1.1", "payload": "GET wss://onepiece.com/ HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "1.0.0.1", "sni": "onepiece.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "172.64.131.2", "sort_order": 3, "id": 3, "proxy_port": 443, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "VIVO 4", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "1.1.1.1", "payload": "GET wss://cse.canva.com/ HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "1.0.0.1", "sni": "cse.canva.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.24.24.34", "sort_order": 4, "id": 4, "proxy_port": 443, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "VIVO 5", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "1.1.1.1", "payload": "GET wss://money-staging.infinitepay.io/  HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "1.0.0.1", "sni": "money-staging.infinitepay.io", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.24.10.16", "sort_order": 5, "id": 5, "proxy_port": 443, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "VIVO 6", "SSH": "", "server_hostname": "fnetssh.xyz", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/V1ZxzjQ.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 1, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://checkout.mediafire.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "checkout.mediafire.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.24.11.16", "sort_order": 6, "id": 6, "proxy_port": 443, "category": { "name": "SSH VIVO", "id": 1, "status": "ACTIVE", "sort_order": 1, "user_id": 1, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-
-
-}, { "name": "CLARO 1", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://cscc-prod.kaf.kaltura.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "cscc-prod.kaf.kaltura.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "cscc-prod.kaf.kaltura.com", "sort_order": 1, "id": 7, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "CLARO 2", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "ct.livestream.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "ct.livestream.com", "sort_order": 2, "id": 8, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "CLARO 3", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://saxionbbprod.kaf.kaltura.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "saxionbbprod.kaf.kaltura.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "saxionbbprod.kaf.kaltura.com", "sort_order": 3, "id": 9, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "CLARO 4", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "communitystaging.kaltura.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "communitystaging.kaltura.com", "sort_order": 4, "id": 10, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "CLARO 5", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "4.icanhazip.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "4.icanhazip.com", "sort_order": 5, "id": 11, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "CLARO 6", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "ipv4.icanhazip.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "ipv4.icanhazip.com", "sort_order": 6, "id": 12, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "CLARO 7", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.icanhazip.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "www.icanhazip.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "www.icanhazip.com", "sort_order": 7, "id": 13, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "CLARO 8", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/HzAzche.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 2, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: fnetssh.xyz[crlf]Upgrade: websockt[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "communitystaging.kaltura.com", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "communitystaging.kaltura.com", "sort_order": 8, "id": 14, "proxy_port": 443, "category": { "name": "SSH CLARO", "id": 2, "status": "ACTIVE", "sort_order": 2, "user_id": 2, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-
-
-}, { "name": "TIM 1", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/Wn26Zn5.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 3, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://blog.alura.com.br HTTP/1.1[lf]Host: fnetssh.xyz[crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "blog.alura.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.21.84.78", "sort_order": 1, "id": 15, "proxy_port": 443, "category": { "name": "SSH TIM", "id": 3, "status": "ACTIVE", "sort_order": 3, "user_id": 3, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "TIM 2", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/Wn26Zn5.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 3, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://texugo.alura.com.br HTTP/1.1[lf]Host: fnetssh.xyz[crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "texugo.alura.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "172.67.188.168", "sort_order": 2, "id": 16, "proxy_port": 443, "category": { "name": "SSH TIM", "id": 3, "status": "ACTIVE", "sort_order": 3, "user_id": 3, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "TIM 3", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/Wn26Zn5.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 3, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.alura.com.br HTTP/1.1[lf]Host: fnetssh.xyz[crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "www.alura.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "172.67.188.168", "sort_order": 3, "id": 17, "proxy_port": 443, "category": { "name": "SSH TIM", "id": 3, "status": "ACTIVE", "sort_order": 3, "user_id": 3, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
-
-}, { "name": "TIM 4", "SSH": "", "server_hostname": "fnetssh.xyz", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/Wn26Zn5.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 3, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://empresas.alura.com.br HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "empresas.alura.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "172.64.147.215", "sort_order": 4, "id": 18, "proxy_port": 443, "category": { "name": "SSH TIM", "id": 3, "status": "ACTIVE", "sort_order": 3, "user_id": 3, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "TIM 5", "SSH": "", "server_hostname": "fnetssh.xyz", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/Wn26Zn5.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 3, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://static.r4you.co HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "static.r4you.co", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "static.r4you.co", "sort_order": 5, "id": 19, "proxy_port": 443, "category": { "name": "SSH TIM", "id": 3, "status": "ACTIVE", "sort_order": 3, "user_id": 3, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-
-
-}, { "name": "OI NAVEGAR", "config_v2ray": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/GDaq5n6.png", "user_id": 1, "password": "", "udp_port": "7300", "category_id": 4, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "www.hbogo.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.16.53.91", "sort_order": 1, "id": 20, "proxy_port": 443, "category": { "name": "SSH OI", "id": 4, "status": "ACTIVE", "sort_order": 4, "user_id": 4, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" }
- 
-}, { "name": "OI DONWLOAD", "SSH": "", "server_hostname": "", "description": "", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/GDaq5n6.png", "user_id": 2, "password": "", "udp_port": "7300", "category_id": 4, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[lf]Host: fnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "www.hbogo.com.br", "config_mode": "ssl_proxy", "url_check_user": "http://20.206.116.61:5000", "config_openvpn": "", "proxy_hostname": "104.16.51.91", "sort_order": 2, "id": 21, "proxy_port": 443, "category": { "name": "SSH OI", "id": 4, "status": "ACTIVE", "sort_order": 4, "user_id": 4, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" } } ] } } "sni": "", "config_mode": "ssh_direct", "url_check_user": "https://www.sc-instagram.com/", "config_openvpn": "", "proxy_hostname": "104.24.10.16", "sort_order": 22, "id": 123, "proxy_port": 80, "category": { "name": "SSH OI", "id": 4, "status": "ACTIVE", "sort_order": 4, "user_id": 4, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" } }, { "name": "OI 5", "config_v2ray": "", "server_hostname": "", "description": "[SSL+PROXY]", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/GDaq5n6.png", "user_id": 1, "password": "", "udp_port": "7300", "category_id": 4, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.hbogo.com.br HTTP/1.1[lf]Host: fnetssh.xyz[crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "1.0.0.1", "sni": "vivodocdigital.vivo.com.br", "config_mode": "ssl_proxy", "url_check_user": "https://www.sc-instagram.com/", "config_openvpn": "", "proxy_hostname": "104.24.10.16", "sort_order": 23, "id": 124, "proxy_port": 443, "category": { "name": "SSH OI", "id": 4, "status": "ACTIVE", "sort_order": 4, "user_id": 4, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" } }, { "name": "OI 6", "config_v2ray": "", "server_hostname": "", "description": "[SSL+PROXY]", "username": "", "server_port": 443, "icon_image": "https://i.imgur.com/GDaq5n6.png", "user_id": 1, "password": "", "udp_port": "7300", "category_id": 4, "v2ray_uuid": "", "primary_dns_server": "8.8.8.8", "payload": "GET wss://www.hbogo.com.br HTTP/1.1[lf]Host: fnetssh.xyz[crlf]Upgrade: websocket[crlf][crlf]", "status": "ACTIVE", "secondary_dns_server": "8.8.4.4", "sni": "protecao.vivo.com.br", "config_mode": "ssl_proxy", "url_check_user": "https://www.sc-instagram.com/", "config_openvpn": "", "proxy_hostname": "vivo.inovanet10.fun", "sort_order": 24, "id": 125, "proxy_port": 443, "category": { "name": "SSH OI", "id": 4, "status": "ACTIVE", "sort_order": 4, "user_id": 4, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", "description": "" } } ] } }
+{
+    "Servers":[
+        
+    ],
+    "WarningMsg":"",
+    "SecuredShellPort":"22",
+    "SecuredShellDropbearPort":"80",
+    "SecuredShellSSLPort":"443",
+    "OpenVpnTCPPort":"1194",
+    "OpenVpnUDPPort":"7300",
+    "OpenVpnSSLPort":"443",
+    "SquidPort":"8080",
+    "ConfigCertOvpn":"",
+    "OpenVpnAddLine":"ULTRACONEXAO",
+    "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
+    "ReleaseNotes":[
+        "Anyvpn Mod",
+        "Update 1",
+        "FneTun MOD\n\nEntre em: @freedom\n\n"
+    ],
+    "VIP":"vip",
+    "UrlUpdate":"https://github.com/elisandro33/elisandro33/blob/main/FnetTunconfig",
+    "Link":"true",
+    "Saudacao":"SEJA BEM VINDO AO FneTun",
+    "LinkIcone":"",
+    "LinkBanner":"http://150.230.81.72:8081/img/anyvpn.png",
+    "LinkBackground":"http://150.230.81.72:8081/img/fundo.png",
+    "LinkVideo":"sim",
+    "Dnspp":"nao",
+    "Hostpp":"nao",
+    "Networks":[
+        {
+            "Name":"VIVO LIGHT 1 ⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"104.16.53.111:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"http://vpn2.fnetsshbr22.ml:5001/checkany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"CLOUDFLARE:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"VIVO LIGHT 2 ⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"ajuda.seraza.com.br:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"http://vpn2.fnetsshbr22.ml:5001/checkany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"FRONT:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        }
+        {"Servers":[],
+    "WarningMsg":"",
+    "SecuredShellPort":"22",
+    "SecuredShellDropbearPort":"80",
+    "SecuredShellSSLPort":"443",
+    "OpenVpnTCPPort":"1194",
+    "OpenVpnUDPPort":"7300",
+    "OpenVpnSSLPort":"443",
+    "SquidPort":"8080",
+    "ConfigCertOvpn":"",
+    "OpenVpnAddLine":"FneTun 🚀",
+    "WarnMsg":"FreedomNet",
+    "ReleaseNotes":[
+        "Atualização disponivel",
+        "3",
+        "FneTun 🚀\n\nEntre em: @Freedom\n"
+    ],
+    "VIP":"vip",
+    "UrlUpdate":"https://bitbin.it/8KeVdvRJ/raw",
+    "Link":"true",
+    "Saudacao":"SEJA BEM VINDO A FneTun 🚀",
+    "LinkIcone":"",
+    "LinkBanner":"http://150.230.81.72:8081/img/anyvpn.png",
+    "LinkBackground":"http://150.230.81.72:8081/img/fundo.png",
+    "LinkVideo":"nao",
+    "Dnspp":"nao",
+    "Hostpp":"nao",
+    "Networks":[
+{
+            "Name":"VIVO🟣 ORC VPN2🛡️",
+            "Servidor":":",
+            "SPort":"",
+            "Prox":"vpn2.fnetsshbr22.ml",
+            "Payload":"",
+            "Direct":"protocol] \n\n/",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"",
+            "VPNMod":2,
+            "VPNTunMod":1,
+            "Info":"Operadora:none",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+	    {
+            "Name":"VIVO OFICIAL 🌟",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"[random=104.16.51.111;52.85.213.68;unpkg.com;104.16.53.111;recarga.vivo.com.br;104.16.51.111]:80",
+            "Payload":"PUT / HTTP/1.1[crlf]Host: Nayaungtun.duckdns.org.Htetwaiyan55.duckdns.org.Seinlinnmpt.duckdns.org[crlf][crlf][split]\n\nGET- / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: upgrade[crlf]Upgrade: WebSocket[crlf]Connection: keep-alive\r\n\r\n[any_random]HEAD / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf][any_random]GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf][any_random]GET / HTTP/1.1[crlf]Host: Apptest2.c6bank.app.App1.c6bank.app.Apptest.c6bank.app.App2.c6bank.app.Apptest1.c6bank.app[crlf]Expect:100-continue\n\n[instant_split]\n\nGET-CONTROL / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Upgrade: websocket\r\n\r\n[any_random]HEAD / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf][any_random]GET / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"Flare:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"ViVO INTERNO",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"[rotate=unpkg.com;104.16.123.175]:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host:[rotate=Google.com;facebook.com; vpn2.fnetsshbr22.ml;Instagram.com][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"teste:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"Vivo🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"unpkg.com:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: unpkg.com[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"8.8.8.8",
+            "Dns2":"8.8.4.4",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"Flare:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"VIVO Flare & EASY",
+            "Servidor":":7300;7200",
+            "SPort":"80",
+            "Prox":"[rotate=104.16.51.111;104.18.7.41]:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=vpn2.fnetsshbr22.ml;vpn1.fnetsshbr22.ml][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"1.1.1.3",
+            "Dns2":"1.0.0.3",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"Vpn1 & Vpn2:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        }, 
+        
+{
+            "Name":"VIVO SSLPAY",
+            "Servidor":":7300;7200;7100",
+            "SPort":"",
+            "Prox":"[rotate=unpkg.com;104.16.51.111]:443",
+            "Payload":"",
+            "Direct":"",
+            "Sni":"[rotate=vpn2.fnetsshbr22.ml;vpn1.fnetsshbr22.ml]",
+            "Payssl":"GET ssl://[rotate=vpn2.fnetsshbr22.ml;vpn1.fnetsshbr22.ml]/ HTTP/1.1[crlf]Host: none[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Certopen":"",
+            "Dns1":"1.1.1.3",
+            "Dns2":"1.0.0.3",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":3,
+            "VPNTunMod":1,
+            "Info":"cloudflare:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+{
+            "Name":"TIM🔵 VPN2🛡️",
+            "Servidor":":",
+            "SPort":"",
+            "Prox":"vpn2.fnetsshbr22.ml",
+            "Payload":"",
+            "Direct":"protocol] \n\n/",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"",
+            "VPNMod":2,
+            "VPNTunMod":1,
+            "Info":"Operadora:none",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+	{
+            "Name":"Tim 08\/04🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"creatorsupport.deezer.com:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"8.8.8.8",
+            "Dns2":"8.8.4.4",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"CREDITO VALIDO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"Tim 10\/04🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"104.19.239.25:80",
+            "Payload":"CONNECT / HTTP/1.9[crlf]host: c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: vpn2.fnetsshbr22.ml[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"TIM:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"Tim RANDOM PROXY🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"104.18.27.160:80",
+            "Payload":"CONNECT / HTTP/1.1[crlf]Host: saas-h.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"8.8.8.8",
+            "Dns2":"8.8.4.4",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"CREDITO VALIDO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"TIM DIRECT 24\/01🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"vpn2.fnetsshbr22.ml:80",
+            "Payload":"",
+            "Direct":"HTTP/ [crlf][crlf]|[crlf]",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+			"Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":2,
+            "VPNTunMod":1,
+            "Info":"CREDITO EXPIRADO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"TIM DIRECT 19\/12 🔥",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"vpn2.fnetsshbr22.ml:80",
+            "Payload":"",
+            "Direct":"protocol] \n\n/",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":2,
+            "VPNTunMod":1,
+            "Info":"CREDITO EXPIRADO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"TIM (CR VALIDO) 🌟",
+            "Servidor":":7200;7300",
+            "SPort":"",
+            "Prox":"[rotate=104.16.51.111;104.19.239.25;]:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf][any_random]GET / HTTP/1.1[crlf]Host: appdev.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][delay]\n\n\nACL /RGNXXX/ HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Expect: 100-continue[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n[any_random]GET / HTTP/1.1[crlf]Host: Apptest2.c6bank.app.App1.c6bank.app.Apptest.c6bank.app.App2.c6bank.app.Apptest1.c6bank.app[crlf]Expect:100-continue\n\n[instant_split]\n\nGET-CONTROL / HTTP/1.1[crlf]Host: vpn2.fnetsshbr22.ml[crlf]Upgrade: websocket\r\n\r\n[any_random]GET / HTTP/1.1\nHost: c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nPRAGMA- /?/ HTTP/1.1\nHost: anyvpn.solutions\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n[any_random]HTTP/ [crlf][crlf]|[crlf][any_random]PUT / HTTP/1.1[crlf]Host:Appdev.c6bank.app.Assets.c6bank.app.Www.c6bank.app[crlf]Expect:100-continue\n\n[instant_split]\n\nGET-CONTROL / HTTP/1.1[crlf]Host: anyvpn.solutions[crlf]Upgrade: websocket\r\n\r\n[any_random]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"NOVO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"TIM (CR EXPIRADO ) 🌟",
+            "Servidor":":7300;7200",
+            "SPort":"",
+            "Prox":"[rotate=vpn2.fnetsshbr22.ml;vpn2.fnetsshbr22.ml;vpn2.fnetsshbr22.ml]:80",
+            "Payload":"PROPPATCH testedevelocidade.vivo.com.br HTTP/1.0[crlf]Host: testedevelocidade.vivo.com.br[crlf][any_random]ACL http://1.1.1.1 rotate=buzzfeed.com; mobile.adobe.com; 1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1 rotate= buzzfeed.com; myspace.com; mobile.google.com; 1.0.0.5[crlf][any_random]ACL indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: r03.spine101.lax01.fab.netarch.akamai.comÂ [crlf][any_random]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "Checkuser":"http://152.67.63.185:5001/checkuserany",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":" NOVO:tim",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        }
+    ],
+    "ConfigVersion":4.3
+}
